@@ -1,0 +1,15 @@
+{
+  "name": "capstone",
+  "description": "Ferramentas compartilhadas do time Capstone Intelbras para Claude Code",
+  "owner": {
+    "name": "Capstone Intelbras"
+  },
+  "plugins": [
+    {
+      "name": "cerebro",
+      "description": "Cérebro compartilhado: injeta decisões, aprendizados e contratos do time em cada sessão e registra o conhecimento novo ao fim das tarefas",
+      "source": "./plugin",
+      "version": "0.1.0"
+    }
+  ]
+}

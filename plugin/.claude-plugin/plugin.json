@@ -1,0 +1,8 @@
+{
+  "name": "cerebro",
+  "description": "Cérebro compartilhado: injeta decisões, aprendizados e contratos do time em cada sessão e registra o conhecimento novo ao fim das tarefas",
+  "version": "0.1.0",
+  "author": {
+    "name": "Capstone Intelbras"
+  }
+}
